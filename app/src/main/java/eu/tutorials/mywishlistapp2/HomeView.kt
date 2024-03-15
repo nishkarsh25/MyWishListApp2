@@ -59,7 +59,7 @@ fun HomeView(
                 contentColor = Color.White,
                 backgroundColor = Color.Black,
                 onClick = {
-                    
+
                     navController.navigate(Screen.AddScreen.route + "/0L")
 
                 }) {
