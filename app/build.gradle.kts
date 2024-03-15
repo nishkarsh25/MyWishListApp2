@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "eu.tutorials.mywishlistapp"
+    namespace = "eu.tutorials.mywishlistapp2"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "eu.tutorials.mywishlistapp"
+        applicationId = "eu.tutorials.mywishlistapp2"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
